@@ -43,7 +43,7 @@ Warning: This script is not for spamming groups, is for post in groups where you
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/Abhi6722/facebook-groups-post-bot.git
+   git clone https://github.com/Abhi6722/facebook-post-bot.git
    ```
 
 2. Install python packages (opening a terminal in the project folder)
